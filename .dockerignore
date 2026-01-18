@@ -1,0 +1,9 @@
+# big data + notebooks
+**/data/
+**/notebooks/
+*.ipynb
+
+# other junk
+**/.git
+__pycache__/
+*.pyc
