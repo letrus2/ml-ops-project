@@ -1,0 +1,14 @@
+data:
+  train_path: data/train.csv
+  test_path: data/test.csv
+
+train:
+  test_size:
+  random_state:
+  shuffle:
+
+model:
+  name: GradientBoostingClassifier
+  params:
+    
+  store_path: models/
