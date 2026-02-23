@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/tinew/VScode/ml-ops-project/mlruns/570261287797790068/849c49ba94414bc89bf50f6c7c1657d1/artifacts
+end_time: 1770521609711
+entry_point_name: ''
+experiment_id: '570261287797790068'
+lifecycle_stage: active
+run_id: 849c49ba94414bc89bf50f6c7c1657d1
+run_name: flawless-cow-319
+run_uuid: 849c49ba94414bc89bf50f6c7c1657d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770521604125
+status: 4
+tags: []
+user_id: Alex Zlygostev

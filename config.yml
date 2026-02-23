@@ -1,0 +1,21 @@
+data:
+  train_path: credit-card-fraud-detection/data/train.csv
+  test_path: credit-card-fraud-detection/data/test.csv
+
+train:
+  test_size: 0.2
+  random_state: 42
+  shuffle:
+
+model:
+  name: GradientBoostingClassifier
+  params:
+    n_jobs: 1
+    subsample: 0.5
+    min_child_weight: 5
+    max__depth: 3
+    n_estimators: 400
+    learning_rate: 0.01
+    gamma: 0.2
+    colsample_bytree: 0.7
+  store_path: credit-card-fraud-detection/models/

@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/tinew/VScode/ml-ops-project/mlruns/570261287797790068/61ed74b5149e46e9b1cf2a5971a81e65/artifacts
+end_time: 1770521921693
+entry_point_name: ''
+experiment_id: '570261287797790068'
+lifecycle_stage: active
+run_id: 61ed74b5149e46e9b1cf2a5971a81e65
+run_name: wistful-squirrel-564
+run_uuid: 61ed74b5149e46e9b1cf2a5971a81e65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770521915961
+status: 4
+tags: []
+user_id: Alex Zlygostev

@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/tinew/VScode/ml-ops-project/mlruns/570261287797790068/1260920061604496a73bae4663cc467c/artifacts
+end_time: 1770523028112
+entry_point_name: ''
+experiment_id: '570261287797790068'
+lifecycle_stage: active
+run_id: 1260920061604496a73bae4663cc467c
+run_name: upset-gnat-337
+run_uuid: 1260920061604496a73bae4663cc467c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770523003777
+status: 3
+tags: []
+user_id: Alex Zlygostev

@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/tinew/VScode/ml-ops-project/mlruns/570261287797790068/2924d73cd5794795bce653e39d9fa210/artifacts
+end_time: 1770262515331
+entry_point_name: ''
+experiment_id: '570261287797790068'
+lifecycle_stage: active
+run_id: 2924d73cd5794795bce653e39d9fa210
+run_name: amazing-deer-446
+run_uuid: 2924d73cd5794795bce653e39d9fa210
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770262509724
+status: 4
+tags: []
+user_id: Alex Zlygostev

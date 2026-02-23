@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/tinew/VScode/ml-ops-project/mlruns/570261287797790068/293438f5e9a04b63b7b82137fcec2e2e/artifacts
+end_time: 1770521883203
+entry_point_name: ''
+experiment_id: '570261287797790068'
+lifecycle_stage: active
+run_id: 293438f5e9a04b63b7b82137fcec2e2e
+run_name: bald-mouse-619
+run_uuid: 293438f5e9a04b63b7b82137fcec2e2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770521877686
+status: 4
+tags: []
+user_id: Alex Zlygostev

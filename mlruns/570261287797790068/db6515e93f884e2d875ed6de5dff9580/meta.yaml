@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/tinew/VScode/ml-ops-project/mlruns/570261287797790068/db6515e93f884e2d875ed6de5dff9580/artifacts
+end_time: 1770522008003
+entry_point_name: ''
+experiment_id: '570261287797790068'
+lifecycle_stage: active
+run_id: db6515e93f884e2d875ed6de5dff9580
+run_name: polite-toad-127
+run_uuid: db6515e93f884e2d875ed6de5dff9580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770522002449
+status: 4
+tags: []
+user_id: Alex Zlygostev
