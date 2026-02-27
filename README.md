@@ -20,8 +20,22 @@ Train and production data are already present in the data folder.
 python main.py
 '''
 ## 5. FastAPI
-
+Run the FastAPI app by running:
+```bash
+uvicorn app:app --re;pad
+```
 ## 6. Docker
+To create contrainer run:
+```bash
+docker build -t fastapi .
+```
+```bash
+docker run -p 80:80 fastapi
+```
+Once your Docker image is built, you may push it to deployment on any cload platform.
 
 ## 7. Monitor the Model
-
+Monitor data drift and performance degradation via Evidently AI:
+```bash
+run monitor.ipynb file
+```
