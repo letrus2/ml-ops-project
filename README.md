@@ -10,9 +10,9 @@ Go to the project folder
 ```
 
 ## 2. Set up the Environment
-Make sure you have Python 3.9-3.12 installed. Set up the environment and install the packages.
+Make sure you have Python 3.12 installed. Set up the environment and install the packages.
 ```bash
-python -m venv venv
+py -3.12 -m venv venv
 source venv/bin/activate # On Windows venv\Scripts\activate
 pip install -r requirements.txt
 ```
