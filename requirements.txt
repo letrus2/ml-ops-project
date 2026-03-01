@@ -17,10 +17,10 @@ dvc-gdrive==3.0.1
 imbalanced-learn==0.12.3
 mlflow==2.14.3
 protobuf>=3.20,<5
-# dvc==3.51.2 imports a private symbol removed in pathspec 1.x
 pathspec==0.12.1
 platformdirs>=3.1.1,<4
 mkdocs==1.6.0
 mkdocs-material==9.5.31
 pytest==8.3.2
+setuptools>=70, <81
 # evidently @ git+https://github.com/evidentlyai/evidently.git
