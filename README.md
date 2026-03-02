@@ -20,9 +20,9 @@ pip install -r requirements.txt
 Train and production data are already present in the data folder.
 
 ## 4. Train the Model
-'''bash
+```bash
 python main.py
-'''
+```
 ## 5. FastAPI
 Run the FastAPI app by running:
 ```bash
