@@ -42,6 +42,4 @@ Once your Docker image is built, you may push it to deployment on any cloud plat
 
 ## 7. Monitor the Model
 Monitor data drift and performance degradation via Evidently AI:
-```bash
-run monitor.ipynb file
-```
+run \credit-card-fraud-detection\monitor.ipynb
