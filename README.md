@@ -40,8 +40,5 @@ Once your Docker image is built, you may push it to deployment on any cloud plat
 
 ## 7. Monitor the Model
 Monitor data drift and performance degradation via Evidently AI:
-```bash
-pip install evidently
-```
-then use the script 
+use the script 
 \credit-card-fraud-detection\monitor.ipynb
