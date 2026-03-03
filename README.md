@@ -4,12 +4,10 @@
 ```bash
 git clone https://github.com/letrus2/ml-ops-project-progress.git
 ```
-
-## 2. Set up the Environment
-Go to the project folder
 ```bash
 cd ml-ops-project-progress
 ```
+## 2. Set up the Environment
 Make sure you have Python 3.12 installed. Set up the environment and install the packages.
 ```bash
 py -3.12 -m venv venv
