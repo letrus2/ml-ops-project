@@ -39,3 +39,6 @@ Once the image is built, you may push it and deploy to any cloud platform.
 ## 7. Monitor the Model
 Monitor data drift and performance degradation with Evidently AI using:
 ``credit-card-fraud-detection/monitor.ipynb``
+
+## License
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
