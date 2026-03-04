@@ -41,4 +41,4 @@ Monitor data drift and performance degradation with Evidently AI using:
 ``credit-card-fraud-detection/monitor.ipynb``
 
 ## License
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+This project is licensed under the [Apache License 2.0](https://github.com/letrus2/ml-ops-project-progress/blob/main/LICENSE.txt)
