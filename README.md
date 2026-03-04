@@ -26,7 +26,7 @@ cd credit-card-fraud-detection
 uvicorn app.main:app --reload
 ```
 ## 6. Create Docker image
-To create contrainer run:
+To create container run:
 ```bash
 cd ..
 docker build -t fastapi .
