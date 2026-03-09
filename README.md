@@ -40,5 +40,9 @@ Once the image is built, you may push it and deploy to any cloud platform.
 Monitor data drift and performance degradation with Evidently AI using:
 ``credit-card-fraud-detection/monitor.ipynb``
 
+--
+Here is a deployed app with some metrics and interface for predictions
+https://ml-ops-project-app-pcu4qxslvgyjnlwmpi2tms.streamlit.app/
+
 ## License
 This project is licensed under the [Apache License 2.0](https://github.com/letrus2/ml-ops-project-progress/blob/main/LICENSE.txt)
