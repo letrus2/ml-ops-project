@@ -41,7 +41,7 @@ Monitor data drift and performance degradation with Evidently AI using:
 ``credit-card-fraud-detection/monitor.ipynb``
 
 Here is a [link](https://ml-ops-project-app-pcu4qxslvgyjnlwmpi2tms.streamlit.app/) to a deployed app with some metrics and interface for predictions
-<img width="1356" height="418" alt="image" src="https://github.com/user-attachments/assets/3f9dcb26-6168-4b50-b3d2-8e986f600f70" />
+<img width="675" height="209" alt="image" src="https://github.com/user-attachments/assets/3f9dcb26-6168-4b50-b3d2-8e986f600f70" />
 
 ## License
 This project is licensed under the [Apache License 2.0](https://github.com/letrus2/ml-ops-project-progress/blob/main/LICENSE.txt)
